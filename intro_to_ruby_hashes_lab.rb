@@ -4,7 +4,7 @@ end
 
 def actor
  actor = {:name => "Dwayne The Rock Johnson"}
- a.keys[]
+ 
 end
 
 def monopoly
