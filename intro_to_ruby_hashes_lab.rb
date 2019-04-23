@@ -17,7 +17,7 @@ end
 def monopoly_with_second_tier
   monopoly = {
     :railroads => {
-      :trains=>4
+      :pieces=>4
     }
   }
 end
