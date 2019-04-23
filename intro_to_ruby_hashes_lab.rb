@@ -3,8 +3,8 @@ def new_hash
 end
 
 def actor
- a = {:actor => "Dwayne The Rock Johnson"}
-a
+ actor = {:name => "Dwayne The Rock Johnson"}
+ a.keys[]
 end
 
 def monopoly
