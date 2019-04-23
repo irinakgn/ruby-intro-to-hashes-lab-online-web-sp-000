@@ -4,7 +4,7 @@ end
 
 def actor
  a = {:actor => "Dwayne The Rock Johnson"}
-
+a
 end
 
 def monopoly
